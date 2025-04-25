@@ -1,7 +1,7 @@
 {
-    "name": "healthhub-backend",
+    "name": "phase2-project-book-buddy-backend",
     "version": "1.0.0",
-    "description": "JSON server for HealthHub app",
+    "description": "JSON server for phase2-project-book-buddy- ",
     "main": "db.json",
     "scripts": {
       "start": "json-server --watch db.json --host 0.0.0.0 --port $PORT"
