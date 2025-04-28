@@ -1,457 +1,497 @@
 {
-    "books": [
-      {
-        "id": "1",
-        "title": "consequat elit veniam",
-        "author": "Herman Richardson",
-        "genre": "Sci-Fi",
-        "pyear": 1908,
-        "publisher": "Aquazure",
-        "coverImageUrl": "https://picsum.photos/200?random=0",
-        "favourite": false,
-        "comment": "Awesome book"
-      },
-      {
-        "id": "4",
-        "title": "nisi irure veniam",
-        "author": "Terry Coleman",
-        "genre": "Biography",
-        "pyear": "2000",
-        "publisher": "Dogtown",
-        "coverImageUrl": "https://picsum.photos/200?random=3",
-        "favourite": false,
-        "comment": "hey",
-        "coverimageUrl": "https://picsum.photos/200?random=77"
-      },
-      {
-        "id": "7",
-        "title": "ut elit laboris",
-        "author": "Dale Cooke",
-        "genre": "Biography",
-        "pyear": 1922,
-        "publisher": "Imperium",
-        "coverImageUrl": "https://picsum.photos/200?random=6",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "8",
-        "title": "ex quis adipisicing",
-        "author": "Butler Nguyen",
-        "genre": "Non-Fiction",
-        "pyear": 2014,
-        "publisher": "Thredz",
-        "coverImageUrl": "https://picsum.photos/200?random=7",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "9",
-        "title": "consequat ea pariatur",
-        "author": "Dorsey Weiss",
-        "genre": "Non-Fiction",
-        "pyear": 1945,
-        "publisher": "Applica",
-        "coverImageUrl": "https://picsum.photos/200?random=8",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "10",
-        "title": "ex esse pariatur",
-        "author": "Gallegos Sosa",
-        "genre": "Biography",
-        "pyear": 1906,
-        "publisher": "Besto",
-        "coverImageUrl": "https://picsum.photos/200?random=9",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "11",
-        "title": "commodo duis anim",
-        "author": "Maxine Guerra",
-        "genre": "Fantasy",
-        "pyear": 1974,
-        "publisher": "Poshome",
-        "coverImageUrl": "https://picsum.photos/200?random=10",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "12",
-        "title": "id veniam voluptate",
-        "author": "Herring Parrish",
-        "genre": "Fiction",
-        "pyear": 1980,
-        "publisher": "Cuizine",
-        "coverImageUrl": "https://picsum.photos/200?random=11",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "13",
-        "title": "aliquip in eiusmod",
-        "author": "Yolanda Scott",
-        "genre": "Fantasy",
-        "pyear": 1995,
-        "publisher": "Fortean",
-        "coverImageUrl": "https://picsum.photos/200?random=12",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "14",
-        "title": "ullamco laboris enim",
-        "author": "Nielsen Miller",
-        "genre": "Sci-Fi",
-        "pyear": 1941,
-        "publisher": "Genesynk",
-        "coverImageUrl": "https://picsum.photos/200?random=13",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "15",
-        "title": "duis pariatur ullamco",
-        "author": "Ratliff Hunter",
-        "genre": "Fiction",
-        "pyear": 1909,
-        "publisher": "Quinex",
-        "coverImageUrl": "https://picsum.photos/200?random=14",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "16",
-        "title": "aliquip sunt fugiat",
-        "author": "Rose Frank",
-        "genre": "Non-Fiction",
-        "pyear": 1993,
-        "publisher": "Lyrichord",
-        "coverImageUrl": "https://picsum.photos/200?random=15",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "17",
-        "title": "id officia dolore",
-        "author": "Sheila Carter",
-        "genre": "Biography",
-        "pyear": 1989,
-        "publisher": "Pyramax",
-        "coverImageUrl": "https://picsum.photos/200?random=16",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "18",
-        "title": "non esse commodo",
-        "author": "Molly Rios",
-        "genre": "Biography",
-        "pyear": 2011,
-        "publisher": "Artiq",
-        "coverImageUrl": "https://picsum.photos/200?random=17",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "19",
-        "title": "ea incididunt dolor",
-        "author": "Haley Snyder",
-        "genre": "Biography",
-        "pyear": 2004,
-        "publisher": "Geekus",
-        "coverImageUrl": "https://picsum.photos/200?random=18",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "20",
-        "title": "est aute officia",
-        "author": "Ingram Benjamin",
-        "genre": "Fantasy",
-        "pyear": 1948,
-        "publisher": "Malathion",
-        "coverImageUrl": "https://picsum.photos/200?random=19",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "21",
-        "title": "enim est id",
-        "author": "Robles Tyson",
-        "genre": "Non-Fiction",
-        "pyear": 2010,
-        "publisher": "Codact",
-        "coverImageUrl": "https://picsum.photos/200?random=20",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "22",
-        "title": "ea id nulla",
-        "author": "Le Humphrey",
-        "genre": "Non-Fiction",
-        "pyear": 1971,
-        "publisher": "Bleendot",
-        "coverImageUrl": "https://picsum.photos/200?random=21",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "23",
-        "title": "ipsum fugiat amet",
-        "author": "Lang Hinton",
-        "genre": "Fiction",
-        "pyear": 1932,
-        "publisher": "Architax",
-        "coverImageUrl": "https://picsum.photos/200?random=22",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "24",
-        "title": "occaecat reprehenderit voluptate",
-        "author": "Barnett Olsen",
-        "genre": "Sci-Fi",
-        "pyear": 1984,
-        "publisher": "Koogle",
-        "coverImageUrl": "https://picsum.photos/200?random=23",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "25",
-        "title": "ut ad in",
-        "author": "Goldie Gould",
-        "genre": "Sci-Fi",
-        "pyear": 1902,
-        "publisher": "Rodeology",
-        "coverImageUrl": "https://picsum.photos/200?random=24",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "26",
-        "title": "veniam tempor ad",
-        "author": "Alissa Morse",
-        "genre": "Fiction",
-        "pyear": 1921,
-        "publisher": "Comtrek",
-        "coverImageUrl": "https://picsum.photos/200?random=25",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "27",
-        "title": "consectetur reprehenderit excepteur",
-        "author": "Charles Nolan",
-        "genre": "Sci-Fi",
-        "pyear": 1995,
-        "publisher": "Lunchpad",
-        "coverImageUrl": "https://picsum.photos/200?random=26",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "28",
-        "title": "anim anim fugiat",
-        "author": "Cooper Aguilar",
-        "genre": "Fiction",
-        "pyear": 1994,
-        "publisher": "Waab",
-        "coverImageUrl": "https://picsum.photos/200?random=27",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "29",
-        "title": "pariatur nulla elit",
-        "author": "Barton Bradshaw",
-        "genre": "Fantasy",
-        "pyear": 1959,
-        "publisher": "Exospace",
-        "coverImageUrl": "https://picsum.photos/200?random=28",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "30",
-        "title": "et Lorem proident",
-        "author": "Mcgowan Travis",
-        "genre": "Non-Fiction",
-        "pyear": 1905,
-        "publisher": "Ovolo",
-        "coverImageUrl": "https://picsum.photos/200?random=29",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "31",
-        "title": "non incididunt quis",
-        "author": "Esperanza Davidson",
-        "genre": "Biography",
-        "pyear": 1904,
-        "publisher": "Zillactic",
-        "coverImageUrl": "https://picsum.photos/200?random=30",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "32",
-        "title": "exercitation est non",
-        "author": "Sanford Blackwell",
-        "genre": "Fantasy",
-        "pyear": 1979,
-        "publisher": "Nitracyr",
-        "coverImageUrl": "https://picsum.photos/200?random=31",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "33",
-        "title": "exercitation mollit enim",
-        "author": "Cassie Cline",
-        "genre": "Fiction",
-        "pyear": 2004,
-        "publisher": "Centrexin",
-        "coverImageUrl": "https://picsum.photos/200?random=32",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "34",
-        "title": "do id magna",
-        "author": "Natalie Pace",
-        "genre": "Sci-Fi",
-        "pyear": 2013,
-        "publisher": "Dyno",
-        "coverImageUrl": "https://picsum.photos/200?random=33",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "35",
-        "title": "laboris deserunt sunt",
-        "author": "Vonda Cantu",
-        "genre": "Fantasy",
-        "pyear": 2012,
-        "publisher": "Escenta",
-        "coverImageUrl": "https://picsum.photos/200?random=34",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "36",
-        "title": "aute qui exercitation",
-        "author": "Henrietta Velez",
-        "genre": "Fantasy",
-        "pyear": 1958,
-        "publisher": "Terrago",
-        "coverImageUrl": "https://picsum.photos/200?random=35",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "37",
-        "title": "aute sit anim",
-        "author": "Benson Baird",
-        "genre": "Fantasy",
-        "pyear": 2022,
-        "publisher": "Bristo",
-        "coverImageUrl": "https://picsum.photos/200?random=36",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "38",
-        "title": "in exercitation veniam",
-        "author": "Hancock Figueroa",
-        "genre": "Biography",
-        "pyear": 2007,
-        "publisher": "Comtract",
-        "coverImageUrl": "https://picsum.photos/200?random=37",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "39",
-        "title": "quis voluptate Lorem",
-        "author": "Deirdre Baker",
-        "genre": "Non-Fiction",
-        "pyear": 1988,
-        "publisher": "Netbook",
-        "coverImageUrl": "https://picsum.photos/200?random=38",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "40",
-        "title": "cupidatat sit culpa",
-        "author": "Reyna Mccoy",
-        "genre": "Biography",
-        "pyear": 1983,
-        "publisher": "Cytrak",
-        "coverImageUrl": "https://picsum.photos/200?random=39",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "41",
-        "title": "qui reprehenderit duis",
-        "author": "Delacruz Duncan",
-        "genre": "Biography",
-        "pyear": 1944,
-        "publisher": "Idealis",
-        "coverImageUrl": "https://picsum.photos/200?random=40",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "42",
-        "title": "consectetur magna tempor",
-        "author": "Leola Hess",
-        "genre": "Non-Fiction",
-        "pyear": 1978,
-        "publisher": "Fishland",
-        "coverImageUrl": "https://picsum.photos/200?random=41",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "43",
-        "title": "excepteur proident sint",
-        "author": "Paula Ingram",
-        "genre": "Fiction",
-        "pyear": 2001,
-        "publisher": "Kage",
-        "coverImageUrl": "https://picsum.photos/200?random=42",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "44",
-        "title": "ex fugiat cupidatat",
-        "author": "Jo Lopez",
-        "genre": "Fantasy",
-        "pyear": 1969,
-        "publisher": "Visalia",
-        "coverImageUrl": "https://picsum.photos/200?random=43",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "45",
-        "title": "officia culpa labore",
-        "author": "Clay Oconnor",
-        "genre": "Non-Fiction",
-        "pyear": 1939,
-        "publisher": "Kidstock",
-        "coverImageUrl": "https://picsum.photos/200?random=44",
-        "favourite": false,
-        "comment": ""
-      },
+  "books": [
+    {
+      "id": "1",
+      "title": "consequat elit veniam",
+      "author": "Herman Richardson",
+      "genre": "Sci-Fi",
+      "pyear": 1908,
+      "publisher": "Aquazure",
+      "coverImageUrl": "https://picsum.photos/200?random=0",
+      "favourite": false,
+      "comment": "Awesome book",
+      "description": "A thrilling science fiction novel exploring the complexities of time travel and the consequences of changing history."
+    },
+    {
+      "id": "4",
+      "title": "nisi irure veniam",
+      "author": "Terry Coleman",
+      "genre": "Biography",
+      "pyear": 2000,
+      "publisher": "Dogtown",
+      "coverImageUrl": "https://picsum.photos/200?random=3",
+      "favourite": false,
+      "comment": "hey",
+      "description": "The life story of a famous entrepreneur, chronicling their rise from humble beginnings to global success."
+    },
+    {
+      "id": "7",
+      "title": "ut elit laboris",
+      "author": "Dale Cooke",
+      "genre": "Biography",
+      "pyear": 1922,
+      "publisher": "Imperium",
+      "coverImageUrl": "https://picsum.photos/200?random=6",
+      "favourite": false,
+      "comment": "",
+      "description": "An inspiring biography about a war hero who overcame insurmountable odds to achieve greatness."
+    },
+    {
+      "id": "8",
+      "title": "ex quis adipisicing",
+      "author": "Butler Nguyen",
+      "genre": "Non-Fiction",
+      "pyear": 2014,
+      "publisher": "Thredz",
+      "coverImageUrl": "https://picsum.photos/200?random=7",
+      "favourite": false,
+      "comment": "",
+      "description": "A deep dive into the world of social entrepreneurship and how businesses can be used to solve real-world problems."
+    },
+    {
+      "id": "9",
+      "title": "consequat ea pariatur",
+      "author": "Dorsey Weiss",
+      "genre": "Non-Fiction",
+      "pyear": 1945,
+      "publisher": "Applica",
+      "coverImageUrl": "https://picsum.photos/200?random=8",
+      "favourite": false,
+      "comment": "",
+      "description": "A historical account of the economic policies that shaped the post-war world and their impact on global trade."
+    },
+    {
+      "id": "10",
+      "title": "ex esse pariatur",
+      "author": "Gallegos Sosa",
+      "genre": "Biography",
+      "pyear": 1906,
+      "publisher": "Besto",
+      "coverImageUrl": "https://picsum.photos/200?random=9",
+      "favourite": false,
+      "comment": "",
+      "description": "The biography of a prominent political figure whose legacy left a lasting impact on their country."
+    },
+    {
+      "id": "11",
+      "title": "commodo duis anim",
+      "author": "Maxine Guerra",
+      "genre": "Fantasy",
+      "pyear": 1974,
+      "publisher": "Poshome",
+      "coverImageUrl": "https://picsum.photos/200?random=10",
+      "favourite": false,
+      "comment": "",
+      "description": "A magical adventure where the protagonist embarks on a quest to uncover a lost civilization in a mystical land."
+    },
+    {
+      "id": "12",
+      "title": "id veniam voluptate",
+      "author": "Herring Parrish",
+      "genre": "Fiction",
+      "pyear": 1980,
+      "publisher": "Cuizine",
+      "coverImageUrl": "https://picsum.photos/200?random=11",
+      "favourite": false,
+      "comment": "",
+      "description": "A poignant fictional tale about love, loss, and redemption, set against the backdrop of a rapidly changing society."
+    },
+    {
+      "id": "13",
+      "title": "aliquip in eiusmod",
+      "author": "Yolanda Scott",
+      "genre": "Fantasy",
+      "pyear": 1995,
+      "publisher": "Fortean",
+      "coverImageUrl": "https://picsum.photos/200?random=12",
+      "favourite": false,
+      "comment": "",
+      "description": "A dark fantasy novel where magic runs rampant, and the protagonist must navigate a world on the brink of destruction."
+    },
+    {
+      "id": "14",
+      "title": "ullamco laboris enim",
+      "author": "Nielsen Miller",
+      "genre": "Sci-Fi",
+      "pyear": 1941,
+      "publisher": "Genesynk",
+      "coverImageUrl": "https://picsum.photos/200?random=13",
+      "favourite": false,
+      "comment": "",
+      "description": "A dystopian tale of a future society where humans are controlled by artificial intelligence, and one person’s rebellion sparks a revolution."
+    },    
+    {
+      "id": "15",
+      "title": "duis pariatur ullamco",
+      "author": "Ratliff Hunter",
+      "genre": "Fiction",
+      "pyear": 1909,
+      "publisher": "Quinex",
+      "coverImageUrl": "https://picsum.photos/200?random=14",
+      "favourite": false,
+      "comment": "",
+      "description": "A gripping fiction novel that delves into the complexities of human nature and the fine line between good and evil."
+    },
+    {
+      "id": "16",
+      "title": "aliquip sunt fugiat",
+      "author": "Rose Frank",
+      "genre": "Non-Fiction",
+      "pyear": 1993,
+      "publisher": "Lyrichord",
+      "coverImageUrl": "https://picsum.photos/200?random=15",
+      "favourite": false,
+      "comment": "",
+      "description": "An in-depth exploration of modern social movements and their impact on society, politics, and culture."
+    },
+    {
+      "id": "17",
+      "title": "id officia dolore",
+      "author": "Sheila Carter",
+      "genre": "Biography",
+      "pyear": 1989,
+      "publisher": "Pyramax",
+      "coverImageUrl": "https://picsum.photos/200?random=16",
+      "favourite": false,
+      "comment": "",
+      "description": "The inspiring story of a trailblazing woman who broke barriers in the corporate world, overcoming personal and professional challenges."
+    },
+    {
+      "id": "18",
+      "title": "non esse commodo",
+      "author": "Molly Rios",
+      "genre": "Biography",
+      "pyear": 2011,
+      "publisher": "Artiq",
+      "coverImageUrl": "https://picsum.photos/200?random=17",
+      "favourite": false,
+      "comment": "",
+      "description": "The memoir of a renowned artist who revolutionized the world of contemporary art and left a lasting legacy on the art scene."
+    },
+    {
+      "id": "19",
+      "title": "ea incididunt dolor",
+      "author": "Haley Snyder",
+      "genre": "Biography",
+      "pyear": 2004,
+      "publisher": "Geekus",
+      "coverImageUrl": "https://picsum.photos/200?random=18",
+      "favourite": false,
+      "comment": "",
+      "description": "A compelling biography of a tech entrepreneur who played a key role in shaping the digital landscape of the 21st century."
+    },
+    {
+      "id": "20",
+      "title": "est aute officia",
+      "author": "Ingram Benjamin",
+      "genre": "Fantasy",
+      "pyear": 1948,
+      "publisher": "Malathion",
+      "coverImageUrl": "https://picsum.photos/200?random=19",
+      "favourite": false,
+      "comment": "",
+      "description": "A magical fantasy novel about a young hero who discovers a hidden world of mythical creatures and must protect it from an ancient evil."
+    },
+    {
+      "id": "21",
+      "title": "enim est id",
+      "author": "Robles Tyson",
+      "genre": "Non-Fiction",
+      "pyear": 2010,
+      "publisher": "Codact",
+      "coverImageUrl": "https://picsum.photos/200?random=20",
+      "favourite": false,
+      "comment": "",
+      "description": "An insightful look at the modern workforce and how the global economy has transformed traditional work environments."
+    },
+    {
+      "id": "22",
+      "title": "ea id nulla",
+      "author": "Le Humphrey",
+      "genre": "Non-Fiction",
+      "pyear": 1971,
+      "publisher": "Bleendot",
+      "coverImageUrl": "https://picsum.photos/200?random=21",
+      "favourite": false,
+      "comment": "",
+      "description": "A comprehensive history of the environmental movement, detailing the efforts of grassroots activists and policy changes throughout the decades."
+    },
+    {
+      "id": "23",
+      "title": "ipsum fugiat amet",
+      "author": "Lang Hinton",
+      "genre": "Fiction",
+      "pyear": 1932,
+      "publisher": "Architax",
+      "coverImageUrl": "https://picsum.photos/200?random=22",
+      "favourite": false,
+      "comment": "",
+      "description": "A classic fiction novel that takes readers through a tumultuous journey of self-discovery and the pursuit of happiness."
+    },
+    {
+      "id": "24",
+      "title": "occaecat reprehenderit voluptate",
+      "author": "Barnett Olsen",
+      "genre": "Sci-Fi",
+      "pyear": 1984,
+      "publisher": "Koogle",
+      "coverImageUrl": "https://picsum.photos/200?random=23",
+      "favourite": false,
+      "comment": "",
+      "description": "A dystopian science fiction novel set in a future where humanity's survival depends on the discovery of an ancient alien artifact."
+    },
+    {
+      "id": "25",
+      "title": "ut ad in",
+      "author": "Goldie Gould",
+      "genre": "Sci-Fi",
+      "pyear": 1902,
+      "publisher": "Rodeology",
+      "coverImageUrl": "https://picsum.photos/200?random=24",
+      "favourite": false,
+      "comment": "",
+      "description": "A pioneering science fiction story about the consequences of space exploration and humanity’s first contact with extraterrestrial beings."
+    },
+    {
+      "id": "26",
+      "title": "veniam tempor ad",
+      "author": "Alissa Morse",
+      "genre": "Fiction",
+      "pyear": 1921,
+      "publisher": "Comtrek",
+      "coverImageUrl": "https://picsum.photos/200?random=25",
+      "favourite": false,
+      "comment": "",
+      "description": "A historical fiction novel exploring the intricate relationships and personal struggles of a family living through the Great Depression."
+    },
+    {
+      "id": "27",
+      "title": "consectetur reprehenderit excepteur",
+      "author": "Charles Nolan",
+      "genre": "Sci-Fi",
+      "pyear": 1995,
+      "publisher": "Lunchpad",
+      "coverImageUrl": "https://picsum.photos/200?random=26",
+      "favourite": false,
+      "comment": "",
+      "description": "A thrilling sci-fi adventure about a team of astronauts sent on a dangerous mission to explore a distant galaxy, where they uncover a dark secret."
+    },
+    {
+      "id": "28",
+      "title": "anim anim fugiat",
+      "author": "Cooper Aguilar",
+      "genre": "Fiction",
+      "pyear": 1994,
+      "publisher": "Waab",
+      "coverImageUrl": "https://picsum.photos/200?random=27",
+      "favourite": false,
+      "comment": "",
+      "description": "A coming-of-age story about a young girl navigating life, love, and personal growth while facing significant challenges."
+    },
+    {
+      "id": "29",
+      "title": "pariatur nulla elit",
+      "author": "Barton Bradshaw",
+      "genre": "Fantasy",
+      "pyear": 1959,
+      "publisher": "Exospace",
+      "coverImageUrl": "https://picsum.photos/200?random=28",
+      "favourite": false,
+      "comment": "",
+      "description": "A captivating fantasy novel set in a magical realm where the fate of kingdoms rests on the shoulders of an unlikely hero."
+    },
+    {
+      "id": "30",
+      "title": "et Lorem proident",
+      "author": "Mcgowan Travis",
+      "genre": "Non-Fiction",
+      "pyear": 1905,
+      "publisher": "Ovolo",
+      "coverImageUrl": "https://picsum.photos/200?random=29",
+      "favourite": false,
+      "comment": "",
+      "description": "A historical exploration of the early 20th century and the societal changes that paved the way for modern-day innovations."
+    },    
+    {
+      "id": "31",
+      "title": "non incididunt quis",
+      "author": "Esperanza Davidson",
+      "genre": "Biography",
+      "pyear": 1904,
+      "publisher": "Zillactic",
+      "coverImageUrl": "https://picsum.photos/200?random=30",
+      "favourite": false,
+      "comment": "",
+      "description": "A detailed look at the life of an enigmatic historical figure."
+    },
+    {
+      "id": "32",
+      "title": "exercitation est non",
+      "author": "Sanford Blackwell",
+      "genre": "Fantasy",
+      "pyear": 1979,
+      "publisher": "Nitracyr",
+      "coverImageUrl": "https://picsum.photos/200?random=31",
+      "favourite": false,
+      "comment": "",
+      "description": "A tale of magical realms and the quest for an ancient artifact."
+    },
+    {
+      "id": "33",
+      "title": "exercitation mollit enim",
+      "author": "Cassie Cline",
+      "genre": "Fiction",
+      "pyear": 2004,
+      "publisher": "Centrexin",
+      "coverImageUrl": "https://picsum.photos/200?random=32",
+      "favourite": false,
+      "comment": "",
+      "description": "An emotional journey through love and loss."
+    },
+    {
+      "id": "34",
+      "title": "do id magna",
+      "author": "Natalie Pace",
+      "genre": "Sci-Fi",
+      "pyear": 2013,
+      "publisher": "Dyno",
+      "coverImageUrl": "https://picsum.photos/200?random=33",
+      "favourite": false,
+      "comment": "",
+      "description": "Set in the future, this novel explores intergalactic politics."
+    },
+    {
+      "id": "35",
+      "title": "laboris deserunt sunt",
+      "author": "Vonda Cantu",
+      "genre": "Fantasy",
+      "pyear": 2012,
+      "publisher": "Escenta",
+      "coverImageUrl": "https://picsum.photos/200?random=34",
+      "favourite": false,
+      "comment": "",
+      "description": "A magical journey through an enchanting world of mythical creatures."
+    },
+    {
+      "id": "36",
+      "title": "aute qui exercitation",
+      "author": "Henrietta Velez",
+      "genre": "Fantasy",
+      "pyear": 1958,
+      "publisher": "Terrago",
+      "coverImageUrl": "https://picsum.photos/200?random=35",
+      "favourite": false,
+      "comment": "",
+      "description": "A classic tale of a young sorcerers rise to power."
+    },
+    {
+      "id": "37",
+      "title": "aute sit anim",
+      "author": "Benson Baird",
+      "genre": "Fantasy",
+      "pyear": 2022,
+      "publisher": "Bristo",
+      "coverImageUrl": "https://picsum.photos/200?random=36",
+      "favourite": false,
+      "comment": "",
+      "description": "A story of destiny, magic, and the fight for survival in a fractured world."
+    },
+    {
+      "id": "38",
+      "title": "in exercitation veniam",
+      "author": "Hancock Figueroa",
+      "genre": "Biography",
+      "pyear": 2007,
+      "publisher": "Comtract",
+      "coverImageUrl": "https://picsum.photos/200?random=37",
+      "favourite": false,
+      "comment": "",
+      "description": "An exploration of personal triumph and the overcoming of obstacles."
+    },
+    {
+      "id": "39",
+      "title": "quis voluptate Lorem",
+      "author": "Deirdre Baker",
+      "genre": "Non-Fiction",
+      "pyear": 1988,
+      "publisher": "Netbook",
+      "coverImageUrl": "https://picsum.photos/200?random=38",
+      "favourite": false,
+      "comment": "",
+      "description": "A thought-provoking analysis of social issues in the late 20th century."
+    },
+    {
+      "id": "40",
+      "title": "cupidatat sit culpa",
+      "author": "Reyna Mccoy",
+      "genre": "Biography",
+      "pyear": 1983,
+      "publisher": "Cytrak",
+      "coverImageUrl": "https://picsum.photos/200?random=39",
+      "favourite": false,
+      "comment": "",
+      "description": "An in-depth account of a controversial public figure's life and legacy."
+    },
+    {
+      "id": "41",
+      "title": "qui reprehenderit duis",
+      "author": "Delacruz Duncan",
+      "genre": "Biography",
+      "pyear": 1944,
+      "publisher": "Idealis",
+      "coverImageUrl": "https://picsum.photos/200?random=40",
+      "favourite": false,
+      "comment": "",
+      "description": "A look at the hardships and triumphs of a notable historical figure."
+    },
+    {
+      "id": "42",
+      "title": "consectetur magna tempor",
+      "author": "Leola Hess",
+      "genre": "Non-Fiction",
+      "pyear": 1978,
+      "publisher": "Fishland",
+      "coverImageUrl": "https://picsum.photos/200?random=41",
+      "favourite": false,
+      "comment": "",
+      "description": "An insightful perspective on the impact of global events on individual lives."
+    },
+    {
+      "id": "43",
+      "title": "excepteur proident sint",
+      "author": "Paula Ingram",
+      "genre": "Fiction",
+      "pyear": 2001,
+      "publisher": "Kage",
+      "coverImageUrl": "https://picsum.photos/200?random=42",
+      "favourite": false,
+      "comment": "",
+      "description": "A gripping story that questions the boundaries of reality and perception."
+    },
+    {
+      "id": "44",
+      "title": "ex fugiat cupidatat",
+      "author": "Jo Lopez",
+      "genre": "Fantasy",
+      "pyear": 1969,
+      "publisher": "Visalia",
+      "coverImageUrl": "https://picsum.photos/200?random=43",
+      "favourite": false,
+      "comment": "",
+      "description": "A high-stakes adventure set in a world where magic and technology collide."
+    },
+    {
+      "id": "45",
+      "title": "officia culpa labore",
+      "author": "Clay Oconnor",
+      "genre": "Non-Fiction",
+      "pyear": 1939,
+      "publisher": "Kidstock",
+      "coverImageUrl": "https://picsum.photos/200?random=44",
+      "favourite": false,
+      "comment": "",
+      "description": "A deep dive into the socio-economic conditions of the early 20th century."
+    },
       {
         "id": "46",
         "title": "commodo officia elit",
@@ -461,7 +501,8 @@
         "publisher": "Delphide",
         "coverImageUrl": "https://picsum.photos/200?random=45",
         "favourite": false,
-        "comment": ""
+        "comment": "",
+        "description": "A classic science fiction tale set in a dystopian future where technology is both a blessing and a curse."
       },
       {
         "id": "47",
@@ -472,7 +513,8 @@
         "publisher": "Zounds",
         "coverImageUrl": "https://picsum.photos/200?random=46",
         "favourite": false,
-        "comment": ""
+        "comment": "",
+        "description": "A fantastical adventure that takes the reader to a world filled with magic, mythical creatures, and epic quests."
       },
       {
         "id": "48",
@@ -483,7 +525,8 @@
         "publisher": "Enquility",
         "coverImageUrl": "https://picsum.photos/200?random=47",
         "favourite": false,
-        "comment": ""
+        "comment": "",
+        "description": "A moving drama about love and loss, set against the backdrop of early 20th-century society."
       },
       {
         "id": "49",
@@ -494,7 +537,8 @@
         "publisher": "Isologica",
         "coverImageUrl": "https://picsum.photos/200?random=48",
         "favourite": false,
-        "comment": ""
+        "comment": "",
+        "description": "A thought-provoking narrative about the human condition and the choices that shape our destiny."
       },
       {
         "id": "50",
@@ -505,7 +549,8 @@
         "publisher": "Protodyne",
         "coverImageUrl": "https://picsum.photos/200?random=49",
         "favourite": false,
-        "comment": ""
+        "comment": "",
+        "description": "A biographical account of a man who defied expectations and made a lasting impact in his field."
       },
       {
         "id": "51",
@@ -516,7 +561,8 @@
         "publisher": "Ultrimax",
         "coverImageUrl": "https://picsum.photos/200?random=50",
         "favourite": false,
-        "comment": ""
+        "comment": "",
+        "description": "Set in a futuristic world, this novel explores the consequences of artificial intelligence becoming more human-like."
       },
       {
         "id": "52",
@@ -527,7 +573,8 @@
         "publisher": "Perkle",
         "coverImageUrl": "https://picsum.photos/200?random=51",
         "favourite": false,
-        "comment": ""
+        "comment": "",
+        "description": "A deep dive into the philosophical questions surrounding human nature and consciousness."
       },
       {
         "id": "53",
@@ -538,7 +585,8 @@
         "publisher": "Tingles",
         "coverImageUrl": "https://picsum.photos/200?random=52",
         "favourite": false,
-        "comment": ""
+        "comment": "",
+        "description": "A magical tale that transports readers to a world where heroes and villains are not always as they seem."
       },
       {
         "id": "54",
@@ -549,7 +597,8 @@
         "publisher": "Columella",
         "coverImageUrl": "https://picsum.photos/200?random=53",
         "favourite": false,
-        "comment": ""
+        "comment": "",
+        "description": "A biography of a pioneering woman who overcame personal struggles to leave a legacy in her field."
       },
       {
         "id": "55",
@@ -560,7 +609,8 @@
         "publisher": "Accuprint",
         "coverImageUrl": "https://picsum.photos/200?random=54",
         "favourite": false,
-        "comment": ""
+        "comment": "",
+        "description": "A poignant narrative that explores the complexities of love, family, and friendship in the modern world."
       },
       {
         "id": "56",
@@ -571,7 +621,8 @@
         "publisher": "Kog",
         "coverImageUrl": "https://picsum.photos/200?random=55",
         "favourite": false,
-        "comment": ""
+        "comment": "",
+        "description": "A tale of redemption and resilience, this biography chronicles a life full of trials and triumphs."
       },
       {
         "id": "57",
@@ -582,7 +633,8 @@
         "publisher": "Flumbo",
         "coverImageUrl": "https://picsum.photos/200?random=56",
         "favourite": false,
-        "comment": ""
+        "comment": "",
+        "description": "The life of a remarkable individual who changed the course of history, offering insight into their struggles and achievements."
       },
       {
         "id": "58",
@@ -593,7 +645,8 @@
         "publisher": "Isologia",
         "coverImageUrl": "https://picsum.photos/200?random=57",
         "favourite": false,
-        "comment": ""
+        "comment": "",
+        "description": "An evocative story that captures the heart of a bygone era, exploring themes of love, loss, and hope."
       },
       {
         "id": "59",
@@ -604,7 +657,8 @@
         "publisher": "Globoil",
         "coverImageUrl": "https://picsum.photos/200?random=58",
         "favourite": false,
-        "comment": ""
+        "comment": "",
+        "description": "A historical account that examines the social and political forces that shaped the 20th century."
       },
       {
         "id": "60",
@@ -615,7 +669,8 @@
         "publisher": "Ecosys",
         "coverImageUrl": "https://picsum.photos/200?random=59",
         "favourite": false,
-        "comment": ""
+        "comment": "",
+        "description": "A fast-paced sci-fi novel that blends action with complex themes of technology, society, and the future."
       },
       {
         "id": "61",
@@ -626,7 +681,8 @@
         "publisher": "Apexia",
         "coverImageUrl": "https://picsum.photos/200?random=60",
         "favourite": false,
-        "comment": ""
+        "comment": "",
+        "description": "A detailed biography of a groundbreaking figure in the field of science, exploring both their personal and professional life."
       },
       {
         "id": "62",
@@ -637,7 +693,8 @@
         "publisher": "Biolive",
         "coverImageUrl": "https://picsum.photos/200?random=61",
         "favourite": false,
-        "comment": ""
+        "comment": "",
+        "description": "A dark fantasy novel about a world on the brink of destruction, where magic and power play dangerous games."
       },
       {
         "id": "63",
@@ -648,7 +705,8 @@
         "publisher": "Vetron",
         "coverImageUrl": "https://picsum.photos/200?random=62",
         "favourite": false,
-        "comment": ""
+        "comment": "",
+        "description": "A thought-provoking exploration of artificial intelligence and the ethical dilemmas that arise as humans and machines become indistinguishable."
       },
       {
         "id": "64",
@@ -659,232 +717,259 @@
         "publisher": "Strozen",
         "coverImageUrl": "https://picsum.photos/200?random=63",
         "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "65",
-        "title": "do laborum anim",
-        "author": "Fleming Skinner",
-        "genre": "Biography",
-        "pyear": 1903,
-        "publisher": "Xyqag",
-        "coverImageUrl": "https://picsum.photos/200?random=64",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "66",
-        "title": "amet aliquip fugiat",
-        "author": "Strong Noble",
-        "genre": "Biography",
-        "pyear": 1910,
-        "publisher": "Sportan",
-        "coverImageUrl": "https://picsum.photos/200?random=65",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "67",
-        "title": "nulla non in",
-        "author": "Deidre Avila",
-        "genre": "Non-Fiction",
-        "pyear": 1974,
-        "publisher": "Maineland",
-        "coverImageUrl": "https://picsum.photos/200?random=66",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "68",
-        "title": "aute eu sint",
-        "author": "Mann Berry",
-        "genre": "Fantasy",
-        "pyear": 2019,
-        "publisher": "Talendula",
-        "coverImageUrl": "https://picsum.photos/200?random=67",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "69",
-        "title": "minim veniam enim",
-        "author": "Donaldson Hammond",
-        "genre": "Fantasy",
-        "pyear": 1929,
-        "publisher": "Geekmosis",
-        "coverImageUrl": "https://picsum.photos/200?random=68",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "70",
-        "title": "cupidatat et sunt",
-        "author": "Jordan Dunn",
-        "genre": "Non-Fiction",
-        "pyear": 1945,
-        "publisher": "Eyeris",
-        "coverImageUrl": "https://picsum.photos/200?random=69",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "71",
-        "title": "voluptate labore laboris",
-        "author": "Mayer Porter",
-        "genre": "Fiction",
-        "pyear": 1900,
-        "publisher": "Geeknet",
-        "coverImageUrl": "https://picsum.photos/200?random=70",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "72",
-        "title": "reprehenderit eu ullamco",
-        "author": "Stark Kerr",
-        "genre": "Fiction",
-        "pyear": 1930,
-        "publisher": "Zensor",
-        "coverImageUrl": "https://picsum.photos/200?random=71",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "73",
-        "title": "pariatur ipsum eiusmod",
-        "author": "Bean Barnett",
-        "genre": "Biography",
-        "pyear": 1991,
-        "publisher": "Xymonk",
-        "coverImageUrl": "https://picsum.photos/200?random=72",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "74",
-        "title": "sint commodo est",
-        "author": "Pate Battle",
-        "genre": "Fantasy",
-        "pyear": 1944,
-        "publisher": "Virxo",
-        "coverImageUrl": "https://picsum.photos/200?random=73",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "75",
-        "title": "reprehenderit esse aute",
-        "author": "Neal Santana",
-        "genre": "Fantasy",
-        "pyear": 1968,
-        "publisher": "Ersum",
-        "coverImageUrl": "https://picsum.photos/200?random=74",
-        "favourite": false,
-        "comment": ""
-      },
-      {
-        "id": "d260",
-        "title": "kigogo",
-        "author": "Ken Walibora",
-        "genre": "reality",
-        "pyear": "2014",
-        "publisher": "Moran",
-        "coverimageUrl": "https://picsum.photos/200?random=76",
-        "favourite": "false"
-      },
-      {
-        "id": "6ece",
-        "title": "river and the source",
-        "author": "Margaret Ogolla",
-        "genre": "reality",
-        "pyear": "1993",
-        "publisher": "KLB",
-        "coverimageUrl": "https://picsum.photos/200?random=77",
-        "favourite": "false"
-      },
-      {
-        "id": "5cbc",
-        "title": "river",
-        "author": "Dennis",
-        "genre": "Non-Fiction",
-        "pyear": "1993",
-        "publisher": "Aquazure",
-        "coverimageUrl": "https://picsum.photos/200?random=80",
-        "favourite": false
-      },
-          {
-            "id": 1,
-            "title": "Atomic Habits",
-            "author": "James Clear",
-            "genre": "Self-Help",
-            "publisher": "Avery",
-            "pyear": 2018,
-            "coverImageUrl": "https://covers.openlibrary.org/b/id/10250475-L.jpg",
-            "isFavourite": false
-          },
-          {
-            "id": 2,
-            "title": "The Alchemist",
-            "author": "Paulo Coelho",
-            "genre": "Fiction",
-            "publisher": "HarperOne",
-            "pyear": 1988,
-            "coverImageUrl": "https://covers.openlibrary.org/b/id/8221251-L.jpg",
-            "isFavourite": false
-          },
-          {
-            "id": 3,
-            "title": "Becoming",
-            "author": "Michelle Obama",
-            "genre": "Biography",
-            "publisher": "Crown",
-            "pyear": 2018,
-            "coverImageUrl": "https://covers.openlibrary.org/b/id/9251776-L.jpg",
-            "isFavourite": false
-          },
-          {
-            "id": 4,
-            "title": "Educated",
-            "author": "Tara Westover",
-            "genre": "Memoir",
-            "publisher": "Random House",
-            "pyear": 2018,
-            "coverImageUrl": "https://covers.openlibrary.org/b/id/9352927-L.jpg",
-            "isFavourite": false
-          },
-          {
-            "id": 5,
-            "title": "Dune",
-            "author": "Frank Herbert",
-            "genre": "Science Fiction",
-            "publisher": "Chilton Books",
-            "pyear": 1965,
-            "coverImageUrl": "https://covers.openlibrary.org/b/id/10650407-L.jpg",
-            "isFavourite": false
-          },
-          {
-            "id": 6,
-            "title": "The Great Gatsby",
-            "author": "F. Scott Fitzgerald",
-            "genre": "Classic",
-            "publisher": "Scribner",
-            "pyear": 1925,
-            "coverImageUrl": "https://covers.openlibrary.org/b/id/7222246-L.jpg",
-            "isFavourite": false
-          }    
-    ],
-    "reviews": [
-      {
-        "id": "ac39",
-        "username": "Mell",
-        "comment": "Nice!",
-        "bookId": 3
-      },
-      {
-        "id": "c905",
-        "username": "mwolovi",
-        "comment": "Interesting book. nice read",
-        "bookId": "4"
-      }
+        "comment": "",
+        "description": "A thrilling fantasy tale of forbidden magic, long-forgotten secrets, and a group of unlikely heroes coming together to save the world."
+      },    
+      [
+        {
+          "id": "65",
+          "title": "do laborum anim",
+          "author": "Fleming Skinner",
+          "genre": "Biography",
+          "pyear": 1903,
+          "publisher": "Xyqag",
+          "coverImageUrl": "https://picsum.photos/200?random=64",
+          "favourite": false,
+          "comment": "",
+          "description": "A fascinating biography detailing the life and accomplishments of Fleming Skinner."
+        },
+        {
+          "id": "66",
+          "title": "amet aliquip fugiat",
+          "author": "Strong Noble",
+          "genre": "Biography",
+          "pyear": 1910,
+          "publisher": "Sportan",
+          "coverImageUrl": "https://picsum.photos/200?random=65",
+          "favourite": false,
+          "comment": "",
+          "description": "Strong Noble’s journey from obscurity to fame, revealing the struggles and triumphs of his life."
+        },
+        {
+          "id": "67",
+          "title": "nulla non in",
+          "author": "Deidre Avila",
+          "genre": "Non-Fiction",
+          "pyear": 1974,
+          "publisher": "Maineland",
+          "coverImageUrl": "https://picsum.photos/200?random=66",
+          "favourite": false,
+          "comment": "",
+          "description": "A detailed analysis of societal shifts in the 20th century, focusing on key historical events."
+        },
+        {
+          "id": "68",
+          "title": "aute eu sint",
+          "author": "Mann Berry",
+          "genre": "Fantasy",
+          "pyear": 2019,
+          "publisher": "Talendula",
+          "coverImageUrl": "https://picsum.photos/200?random=67",
+          "favourite": false,
+          "comment": "",
+          "description": "An epic fantasy novel set in a mystical world where magic is real, and creatures roam free."
+        },
+        {
+          "id": "69",
+          "title": "minim veniam enim",
+          "author": "Donaldson Hammond",
+          "genre": "Fantasy",
+          "pyear": 1929,
+          "publisher": "Geekmosis",
+          "coverImageUrl": "https://picsum.photos/200?random=68",
+          "favourite": false,
+          "comment": "",
+          "description": "A gripping tale of heroism and sorcery set in a land torn by war and betrayal."
+        },
+        {
+          "id": "70",
+          "title": "cupidatat et sunt",
+          "author": "Jordan Dunn",
+          "genre": "Non-Fiction",
+          "pyear": 1945,
+          "publisher": "Eyeris",
+          "coverImageUrl": "https://picsum.photos/200?random=69",
+          "favourite": false,
+          "comment": "",
+          "description": "An insightful look into post-war society, covering social, political, and cultural changes."
+        },
+        {
+          "id": "71",
+          "title": "voluptate labore laboris",
+          "author": "Mayer Porter",
+          "genre": "Fiction",
+          "pyear": 1900,
+          "publisher": "Geeknet",
+          "coverImageUrl": "https://picsum.photos/200?random=70",
+          "favourite": false,
+          "comment": "",
+          "description": "A fictional tale about a family navigating through personal struggles during a pivotal time in history."
+        },
+        {
+          "id": "72",
+          "title": "reprehenderit eu ullamco",
+          "author": "Stark Kerr",
+          "genre": "Fiction",
+          "pyear": 1930,
+          "publisher": "Zensor",
+          "coverImageUrl": "https://picsum.photos/200?random=71",
+          "favourite": false,
+          "comment": "",
+          "description": "A mysterious fiction novel set in the turbulent era of the Great Depression, exploring themes of hope and despair."
+        },
+        {
+          "id": "73",
+          "title": "pariatur ipsum eiusmod",
+          "author": "Bean Barnett",
+          "genre": "Biography",
+          "pyear": 1991,
+          "publisher": "Xymonk",
+          "coverImageUrl": "https://picsum.photos/200?random=72",
+          "favourite": false,
+          "comment": "",
+          "description": "The personal account of a prominent figure, revealing the events that shaped their extraordinary life."
+        },
+        {
+          "id": "74",
+          "title": "sint commodo est",
+          "author": "Pate Battle",
+          "genre": "Fantasy",
+          "pyear": 1944,
+          "publisher": "Virxo",
+          "coverImageUrl": "https://picsum.photos/200?random=73",
+          "favourite": false,
+          "comment": "",
+          "description": "A captivating fantasy adventure filled with mythical creatures, epic battles, and ancient prophecies."
+        },
+        {
+          "id": "75",
+          "title": "reprehenderit esse aute",
+          "author": "Neal Santana",
+          "genre": "Fantasy",
+          "pyear": 1968,
+          "publisher": "Ersum",
+          "coverImageUrl": "https://picsum.photos/200?random=74",
+          "favourite": false,
+          "comment": "",
+          "description": "Set in a world of enchantment and wonder, this story follows the journey of a reluctant hero."
+        },
+        {
+          "id": "76",
+          "title": "kigogo",
+          "author": "Ken Walibora",
+          "genre": "Reality",
+          "pyear": "2014",
+          "publisher": "Moran",
+          "coverImageUrl": "https://picsum.photos/200?random=76",
+          "favourite": false,
+          "comment": "",
+          "description": "A real-life account of the struggles and resilience of communities in East Africa."
+        },
+        {
+          "id": "77",
+          "title": "river and the source",
+          "author": "Margaret Ogolla",
+          "genre": "Reality",
+          "pyear": "1993",
+          "publisher": "KLB",
+          "coverImageUrl": "https://picsum.photos/200?random=77",
+          "favourite": false,
+          "comment": "",
+          "description": "An exploration of the cultural, social, and political changes in Kenya through the eyes of its citizens."
+        },
+        {
+          "id": "78",
+          "title": "river",
+          "author": "Dennis",
+          "genre": "Non-Fiction",
+          "pyear": "1993",
+          "publisher": "Aquazure",
+          "coverImageUrl": "https://picsum.photos/200?random=80",
+          "favourite": false,
+          "comment": "",
+          "description": "A powerful reflection on the importance of rivers in the development of civilizations and cultures."
+        },
+        {
+          "id": "79",
+          "title": "Atomic Habits",
+          "author": "James Clear",
+          "genre": "Self-Help",
+          "publisher": "Avery",
+          "pyear": 2018,
+          "coverImageUrl": "https://covers.openlibrary.org/b/id/10250475-L.jpg",
+          "isFavourite": false,
+          "description": "A guide to building good habits and breaking bad ones, offering practical advice backed by science."
+        },
+        {
+          "id": "80",
+          "title": "The Alchemist",
+          "author": "Paulo Coelho",
+          "genre": "Fiction",
+          "publisher": "HarperOne",
+          "pyear": 1988,
+          "coverImageUrl": "https://covers.openlibrary.org/b/id/8221251-L.jpg",
+          "isFavourite": false,
+          "description": "A philosophical story about a young shepherd’s journey to find his personal legend and discover his purpose in life."
+        },
+        {
+          "id": "81",
+          "title": "Becoming",
+          "author": "Michelle Obama",
+          "genre": "Biography",
+          "publisher": "Crown",
+          "pyear": 2018,
+          "coverImageUrl": "https://covers.openlibrary.org/b/id/9251776-L.jpg",
+          "isFavourite": false,
+          "description": "A memoir by Michelle Obama detailing her life from childhood to the White House and beyond."
+        },
+        {
+          "id": "82",
+          "title": "Educated",
+          "author": "Tara Westover",
+          "genre": "Memoir",
+          "publisher": "Random House",
+          "pyear": 2018,
+          "coverImageUrl": "https://covers.openlibrary.org/b/id/9352927-L.jpg",
+          "isFavourite": false,
+          "description": "A memoir about growing up in a strict and isolated family in rural Idaho and her pursuit of education."
+        },
+        {
+          "id": "83",
+          "title": "Dune",
+          "author": "Frank Herbert",
+          "genre": "Science Fiction",
+          "publisher": "Chilton Books",
+          "pyear": 1965,
+          "coverImageUrl": "https://covers.openlibrary.org/b/id/10650407-L.jpg",
+          "isFavourite": false,
+          "description": "A science fiction epic set on a desert planet where political intrigue and family dynamics shape the future."
+        },
+        {
+          "id": "84",
+          "title": " console.log(data); Great Gatsby",
+          "author": "F. Scott Fitzgerald",
+          "genre": "Classic",
+          "publisher": "Scribner",
+          "pyear": 1925,
+          "coverImageUrl": "https://covers.openlibrary.org/b/id/7222246-L.jpg",
+          "isFavourite": false,
+          "description": "A novel about the Jazz Age in America, focusing on the life of the mysterious Jay Gatsby and his obsession with Daisy Buchanan."
+        }
     ]
-  }
+    
+  ],
+  "reviews": [
+    {
+      "id": "ac39",
+      "username": "Mell",
+      "comment": "Nice!",
+      "bookId": 3
+    },
+    {
+      "id": "c905",
+      "username": "mwolovi",
+      "comment": "Interesting book. nice read",
+      "bookId": "4"
+    }
+  ]
+}
